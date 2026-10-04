@@ -1,5 +1,7 @@
 # Andrew Prokash — Aerospace Engineering Portfolio
 
+[About](about.md) • [Projects](projects.md) • [Resume](resume.md)
+
 ## About Me
 Aerospace Engineering student at Georgia Tech focusing on flight dynamics, rocketry, and aircraft design. Member of the YJSP Elytra Flight Dynamics team.
 
