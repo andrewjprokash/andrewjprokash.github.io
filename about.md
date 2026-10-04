@@ -9,3 +9,5 @@ I enjoy:
 - 3D printing and materials (PLA, PETG, TPU)
 
 This portfolio documents my engineering work, design process, and technical growth.
+
+[Back to Home](index.md)
