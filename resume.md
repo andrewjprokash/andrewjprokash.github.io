@@ -2,5 +2,5 @@
 
 You can download my resume here:
 
-[Resume PDF](Andrew Prokash Resume.pdf)
+[Resume PDF](resume.pdf)
 
