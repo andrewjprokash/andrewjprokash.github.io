@@ -1,4 +1,6 @@
 #Resume
+
 You can download my resume here:
-[Resume PDF](resume.pdf)
+
+[Resume PDF](Andrew Prokash Resume.pdf)
 
