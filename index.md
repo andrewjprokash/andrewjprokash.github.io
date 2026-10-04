@@ -19,5 +19,6 @@ MATLAB • SolidWorks • Python • OpenRocket • 3D Printing (PLA, PETG, TPU)
 ## Contact
 Email: andrewjprokash@gmail.com  
 LinkedIn: [https://www.linkedin.com/in/andrewprokash](https://www.linkedin.com/in/andrewprokash) 
+
 GitHub: [https://andrewjprokash.github.io](https://github.com/andrewjprokash)
 
