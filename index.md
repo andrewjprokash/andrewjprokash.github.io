@@ -1,5 +1,12 @@
 # Andrew Prokash — Aerospace Engineering Portfolio
 
+<nav>
+  <a href="index.md">Home</a> |
+  <a href="about.md">About</a> |
+  <a href="projects.md">Projects</a> |
+  <a href="resume.md">Resume</a>
+</nav>
+
 [About](about.md) • [Projects](projects.md) • [Resume](resume.md)
 
 ## About Me
