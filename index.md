@@ -3,7 +3,7 @@
 **Georgia Institute of Technology**  
 Member — YJSP Elytra Flight Dynamics Team  
 
-[About](about.md) • [View Projects](#projects) • [Download Résumé](resume.pdf)
+[About](about.md) • [View Projects](projects.md) • [Download Résumé](resume.pdf)
 
 ---
 
