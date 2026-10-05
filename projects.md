@@ -31,4 +31,25 @@
 
 [Read More](projects/elytra.md)
 
+---
+
+## AE 1601 Apogee Rocket
+**Context:** Course Project for AE 1601
+**Problem:** Design a rocket to reach an apogee of 125 ft without exceeding the limit, while creating a payload bay and modifying an Estes Wizard rocket kit
+**Approach:**
+- Research
+- Design Optimization
+- Manufacturing and 3d Printing
+- Assembly
+- Launch
+**Visuals:**
+
+![Rocket CAD](assets/cad/rocket.png)
+
+**Results:**
+- Placeholder
+
+[Read More](projects/rocket.md)
+
+
 [Back to Home](index.md)
