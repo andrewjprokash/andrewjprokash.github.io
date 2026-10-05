@@ -1,4 +1,11 @@
-# Andrew Prokash — Aerospace Engineering Portfolio
+<div align="center">
+
+# **Andrew Prokash**
+### Aerospace Engineering • Flight Dynamics • Rocketry  
+Georgia Institute of Technology  
+Member — YJSP Elytra Flight Dynamics Team
+
+</div>
 
 [About](about.md) • [Projects](projects.md) • [Resume](resume.md)
 
@@ -12,6 +19,12 @@ Aerospace Engineering student at Georgia Tech focusing on flight dynamics, rocke
 
 ## Skills
 MATLAB • SolidWorks • Python • OpenRocket • 3D Printing (PLA, PETG, TPU)
+
+## Interests
+- Space systems and launch vehicle design  
+- Hypersonics and high-speed aerothermodynamics  
+- Rocket propulsion and recovery systems  
+- Flight dynamics and trajectory optimization  
 
 ## Resume
 [Download Resume](resume.pdf)
