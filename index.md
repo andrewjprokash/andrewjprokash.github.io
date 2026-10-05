@@ -5,9 +5,9 @@
 Georgia Institute of Technology  
 Member — YJSP Elytra Flight Dynamics Team
 
-</div>
-
 [About](about.md) • [Projects](projects.md) • [Resume](resume.md)
+
+</div>
 
 ## About Me
 Aerospace Engineering student at Georgia Tech focusing on flight dynamics, rocketry, and aircraft design. Member of the YJSP Elytra Flight Dynamics team.
