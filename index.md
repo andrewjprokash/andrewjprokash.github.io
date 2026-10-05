@@ -1,13 +1,11 @@
-<div align="center">
-
 # **Andrew Prokash**
 ### Aerospace Engineering • Flight Dynamics • Rocketry  
-Georgia Institute of Technology  
-Member — YJSP Elytra Flight Dynamics Team
+**Georgia Institute of Technology**  
+Member — YJSP Elytra Flight Dynamics Team  
 
-[About](about.md) • [Projects](projects.md) • [Resume](resume.md)
+[About](about.md) • [View Projects](#projects) • [Download Résumé](resume.pdf)
 
-</div>
+---
 
 ## About Me
 Aerospace Engineering student at Georgia Tech focusing on flight dynamics, rocketry, and aircraft design. Member of the YJSP Elytra Flight Dynamics team.
@@ -30,7 +28,7 @@ MATLAB • SolidWorks • Python • OpenRocket • 3D Printing (PLA, PETG, TPU)
 [Download Resume](resume.pdf)
 
 ---
-<div align="center">
+
 © 2026 Andrew Prokash • Aerospace Engineering Portfolio  
 
 Email: andrewjprokash@gmail.com  
@@ -38,4 +36,4 @@ Email: andrewjprokash@gmail.com
 LinkedIn: [https://www.linkedin.com/in/andrewprokash](https://www.linkedin.com/in/andrewprokash)  
 
 GitHub: [https://andrewjprokash.github.io](https://github.com/andrewjprokash)
-</div>
+
