@@ -13,6 +13,7 @@
 - Predicted stability margin within 6% of measured values  
 **Visuals:**  
 ![Glider CAD](assets/cad/glider.png)
+
 [Read More](projects/glider.md)
 
 ---
@@ -27,6 +28,7 @@
 **Results:**  
 - Generated trajectory envelopes  
 - Supported design reviews
+
 [Read More](projects/elytra.md)
 
 [Back to Home](index.md)
