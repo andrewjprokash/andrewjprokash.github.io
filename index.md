@@ -29,10 +29,13 @@ MATLAB • SolidWorks • Python • OpenRocket • 3D Printing (PLA, PETG, TPU)
 ## Resume
 [Download Resume](resume.pdf)
 
-## Contact
+---
+<div align="center">
+© 2026 Andrew Prokash • Aerospace Engineering Portfolio  
+
 Email: andrewjprokash@gmail.com  
 
-LinkedIn: [https://www.linkedin.com/in/andrewprokash](https://www.linkedin.com/in/andrewprokash) 
+LinkedIn: [https://www.linkedin.com/in/andrewprokash](https://www.linkedin.com/in/andrewprokash)  
 
 GitHub: [https://andrewjprokash.github.io](https://github.com/andrewjprokash)
-
+</div>
