@@ -14,11 +14,13 @@ A MATLAB-based rocket mission planning tool that calculates delta-v requirements
 - Numerical calculations
 
 # Example Output
-(Add screenshots here)
+<img width="1640" height="1750" alt="image" src="https://github.com/user-attachments/assets/1162ab6d-02f9-413c-bb35-3f29d2cc6bba" />
+
 
 # Files
-rocket_deltav_planner.m - Main MATLAB program
-rocket_deltav_planner.pdf - Project documentation/report
+[rocket_deltav_planner.m](rocket_deltav_planner.m)
+
+[rocket_deltav_planner.pdf](rocket_deltav_planner.pdf)
 
 # Engineering Skills Demonstrated
 - Rocket propulsion analysis
