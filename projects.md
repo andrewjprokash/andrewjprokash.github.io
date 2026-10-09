@@ -1,5 +1,16 @@
 # Projects
 
+## Delta-V Rocket Planener
+**Context:**
+**Problem:**
+**Approach:**
+**Results:**
+**Visuals:**
+<img width="1640" height="1750" alt="image" src="https://github.com/user-attachments/assets/58a8da0e-aff4-47db-87fe-a50da9851dad" />
+
+[Read More](projects/deltav_rocket_planner.md)
+
+
 ## AE1601 Raptor-Inspired Glider
 **Context:** Course project for AE1601.  
 **Problem:** Design a stable glider using raptor-inspired wing geometry.  
