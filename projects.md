@@ -24,40 +24,107 @@ The tool calculated stage-level and total vehicle performance for a representati
 
 The resulting mission assessment showed that the vehicle could successfully reach Low Earth Orbit (LEO) but did not meet the predefined delta-v requirements for GTO, TLI, or TMI missions once launch losses were considered.
 
+**Technical Skills Demonstrated**
+- MATLAB Programming
+- Numerical Methods and Computational Modeling
+- Rocket Propulsion Analysis
+- Tsiolkovsky Rocket Equation Application
+- Multi-Stage Vehicle Performance Analysis
+- Systems Engineering
+- Mass Budget and Mass Fraction Analysis
+- Delta-V Budget Development
+- Mission Feasibility Assessment
+- Data Visualization
+
 **Visuals:**
 <img width="1640" height="1750" alt="image" src="https://github.com/user-attachments/assets/58a8da0e-aff4-47db-87fe-a50da9851dad" />
 
 [Read More](projects/deltav_rocket_planner.md)
 
 
-## AE1601 Raptor-Inspired Glider
-**Context:** Course project for AE1601.  
-**Problem:** Design a stable glider using raptor-inspired wing geometry.  
-**Approach:**  
-- Airfoil selection (NACA 4412)  
-- SolidWorks modeling  
-- MATLAB stability analysis (Cm vs AoA)  
-- Flight testing  
-**Results:**  
-- Stable glide at 8–12 m/s  
-- Predicted stability margin within 6% of measured values  
-**Visuals:**  
-![Glider CAD](assets/cad/glider.png)
+## NASA Space Launch System (SLS) Functional Desktop Model
+**Context:** As the culminating design project for ME 1670, I was tasked with creating a complex CAD assembly that demonstrated proficiency in SolidWorks modeling, assembly design, and manufacturing considerations. Drawing on my interest in aerospace engineering, I designed a detailed scale model of NASA's Space Launch System (SLS) that extended beyond a display model by incorporating functionality, modular assembly features, and additive manufacturing constraints. 
 
-[Read More](projects/glider.md)
+**Problem:** The project required the development of a mechanically functional product that could be accurately modeled in CAD and manufactured through 3D printing. The design needed to:
+- Capture the major geometric features of the model.
+- Have at least 2 connectors and a maximum of 5 parts
+- Have a maximum volume constrain of 4 in^3 and each part must fit in a 3" by 3" by 3" cube
+- Assemble reliably without adhesives.
+- Incorporate functional features beyond a static display model.
+
+**Approach:**  
+The entire system was designed from scratch in SolidWorks, both as individual parts and as a multi-component assembly consisting of:
+- SLS core stage
+- Twin solid rocket boosters (SRBs)
+- Orion crew capsule and upper-stage elements
+- Launch platform
+- Launch tower
+
+To increase functionality, I designed a rotating nose cone mechanism that opens to reveal an internal pencil holder, transforming the model into a practical desktop organizer.
+
+The assembly was engineered using a combination of:
+- Snap-fit connections for tool-free assembly
+- Dovetail joints for precise alignment and load transfer between components
+- Modular segmentation to accommodate printer volume constraints
+- Revolute Joint for ease of opening the pencil holder
+
+Part interfaces were iteratively refined to account for 3D-printing tolerances and ensure reliable fit between mating components.
+
+**Results:**  
+- Insert Results Here
+
+**Technical Skills Demonstrated** 
+- SolidWorks CAD Modeling
+- Assembly Design
+- Mechanical Design
+- Tolerance Analysis
+- Snap-Fit Design
+- Dovetail Joint Design
+- Rapid Prototyping
+- 3D Printing
+- Engineering Documentation
+
+**Visuals:**  
+![SLS CAD](assets/cad/glider.png)
+
+[Read More](projects/sls.md)
 
 ---
 
-## YJSP Elytra Flight Dynamics
-**Context:** Student rocketry program at Georgia Tech.  
-**Problem:** Develop trajectory models for a liquid-fueled rocket.  
+## Recovery System Line Cutter Redesign (Yellow Jacket Space Program)
+**Context:** Reliable recovery system deployment is critical to mission success in high-power rocketry. Following the successful flight of a previous YJSP vehicle, Vespula, that achieved a world-record altitude, the recovery system team sought to improve the performance and maintainability of the line cutter subsystem responsible for releasing parachute retention lines during descent. The redesign effort focused on increasing reliability while reducing the need for replacement hardware between flights. 
+
+**Problem:** The existing line cutter design functioned but was primarily intended for single-use operation. Future missions required a more robust solution capable of maintaining consistent cutting performance while improving reusability, manufacturability, and ease of integration into the recovery system. The redesigned device needed to minimize failure risk while operating under flight environments involving vibration, acceleration, and deployment loads. 
+
 **Approach:**  
-- MATLAB/Python simulation tools  
-- Propulsion modeling  
-- Stability and control analysis  
+- Evaluated the performance and limitations of the previous line cutter design.
+- Generated and assessed multiple design concepts to improve reliability and reusability.
+- Developed CAD models and engineering drawings for new line cutter architectures.
+- Performed design trade studies considering manufacturability, assembly complexity, and operational robustness.
+- Iteratively refined component geometry and retention features to improve repeatability and durability.
+- Collaborated with recovery subsystem teammates to ensure compatibility with existing deployment hardware and mission requirements.
+- Supported prototype development, testing, and design validation activities.
+
 **Results:**  
-- Generated trajectory envelopes  
-- Supported design reviews
+- Developed an improved line cutter design focused on reusable operation and increased reliability.
+- Reduced dependence on disposable hardware between launches.
+- Enhanced the maintainability and serviceability of the recovery subsystem.
+- Generated CAD models and engineering documentation to support fabrication and testing.
+- Contributed to the continued development of recovery system hardware for future YJSP flight vehicles.
+
+**Technical Skills Demonstrated**Mechanical Design
+- CAD Modeling (SolidWorks)
+- Design Iteration
+- Engineering Trade Studies
+- Design for Manufacturing (DfM)
+- Reliability Engineering
+- Recovery Systems Design
+- Aerospace Systems Integration
+- Rapid Prototyping
+- Technical Documentation
+- Cross-Functional Team Collaboration
+- Requirements-Driven Design
+
 
 [Read More](projects/elytra.md)
 
