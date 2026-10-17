@@ -56,7 +56,7 @@ The resulting mission assessment showed that the vehicle could successfully reac
 The entire system was designed from scratch in SolidWorks, both as individual parts and as a multi-component assembly consisting of:
 - SLS core stage
 - Twin solid rocket boosters (SRBs)
-- Orion crew capsule and upper-stage elements
+- Orion crew capsule/nosecone
 - Launch platform
 - Launch tower
 
@@ -68,7 +68,7 @@ The assembly was engineered using a combination of:
 - Modular segmentation to accommodate printer volume constraints
 - Revolute Joint for ease of opening the pencil holder
 
-Part interfaces were iteratively refined to account for 3D-printing tolerances and ensure reliable fit between mating components.
+From the 1st version to the final version, as seen in the visuals below, I gained a deeper understanding of the aspects of CAD that make manufacturing, tolerances, and workflow easier to use. Some main changes in the versions is geometry simplification (using the tools of SolidWorks to model the features quicker by using advanced modeling techniques rather than sketching each part individually), assembly structure (separating the assembly into parts to make adjusting parts easier and quicker), and tolerances (adding tolerances to the parts to make them easier to 3d print and fit together).
 
 **Results:**  
 - Insert Results Here
@@ -84,7 +84,8 @@ Part interfaces were iteratively refined to account for 3D-printing tolerances a
 - 3D Printing
 - Engineering Documentation
 
-**Visuals:**  
+**Visuals:** 
+Insert Picture of 1st Assembly vs Final Rendering
 ![SLS CAD](assets/cad/glider.png)
 
 [Read More](projects/sls.md)
