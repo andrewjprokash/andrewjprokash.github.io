@@ -132,20 +132,33 @@ Insert Picture of 1st Assembly vs Final Rendering
 ---
 
 ## AE 1601 Apogee Rocket
-**Context:** Course Project for AE 1601
-**Problem:** Design a rocket to reach an apogee of 125 ft without exceeding the limit, while creating a payload bay and modifying an Estes Wizard rocket kit
+**Context:** As part of a four-person team project in Georgia Tech's AE 1601 Engineering Graphics and Design course, we were tasked with modifying an Estes Wizard model rocket to carry a Pnut altimeter and achieve a target apogee of 125 ft. The project combined aerospace design, CAD modeling, flight simulation, manufacturing, assembly, and experimental testing to develop and validate a custom flight vehicle.
+
+**Problem:** The stock Estes Wizard lacked sufficient internal volume to accommodate the altimeter payload and was not optimized for the project's mission requirements. Our team needed to redesign the rocket to integrate the payload while maintaining stable flight, minimizing mass growth, and meeting the altitude target. The vehicle also had to be manufacturable, structurally sound, and capable of safe recovery after flight.
+
 **Approach:**
-- Research
-- Design Optimization
-- Manufacturing and 3d Printing
-- Assembly
-- Launch
+Within the team, I was responsible for the complete rocket design and hardware integration. I redesigned the vehicle configuration by shortening the original body tube and designing the custom nose cone, payload bay, fin set, and static canards. Using OpenRocket, I iterated on the design to balance stability, payload capacity, and predicted flight performance. Another member of the team created the CAD models to be 3D-printed, which had three iterations to nail down the final design.
+
+After fabrication, I assembled the entire rocket and integrated the recovery system to produce a flight-ready vehicle. Following launch testing, our team compared measured flight data to OpenRocket predictions and investigated discrepancies between simulated and actual performance.
+
 **Visuals:**
 
-![Rocket CAD](assets/cad/rocket.png)
 
 **Results:**
-- Placeholder
+The rocket successfully carried the onboard altimeter and achieved a measured apogee of approximately 160 ft, exceeding the original target altitude of 125 ft. While the vehicle flew successfully and demonstrated stable flight characteristics, post-flight analysis revealed that the simulation did not accurately represent the final flight configuration, resulting in significant differences between predicted and measured performance.
+
+As part of the project's final analysis, I developed recommendations to improve simulation fidelity, including better mass distribution, more accurate drag modeling, and improved representation of custom components. These findings highlighted the importance of validating engineering models against experimental data and provided a framework for improving future flight predictions.
+
+**Technical Skills Demonstrated**
+- Aerospace vehicle design
+- OpenRocket flight simulation and validation
+- Stability and aerodynamic analysis
+- Design iteration and optimization
+- Hardware assembly and integration
+- Recovery system design and implementation
+- Flight testing and data analysis
+- Simulation validation and model improvement
+
 
 [Read More](projects/rocket.md)
 
