@@ -22,4 +22,4 @@ For our simulation, OpenRocket predicted an apogee of 122 ft, with a flight time
 
 To achieve an apogee of 125ft in the future, we should increase the fin size and canard size, thereby increasing the weight of the rocket and decreasing the stability. Due to the decrease in stability, we should also increase the wall thickness of the nosecone, increase the mass of the nosecone, which moves the center of gravity forward, greatly increasing stability, leading to a more stable flight profile. Also, we should add more recovery wadding between the motor and recovery system to prevent the streamer from getting ripped off and to protect the payload bay. To also protect the payload bay and altimeter, we should add more padding inside the payload bay and increase the wall thickness of the payload bay, further strengthening the structure and increase the overall static stability of the rocket.
 
-[Back to Home](index.md)
+[← Back to Home](/)
