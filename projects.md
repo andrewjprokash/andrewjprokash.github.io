@@ -116,11 +116,11 @@ From the 1st version to the final version, as seen in the visuals below, I gaine
 
 Original Assembly (Dimensions not right, Assembly not defined, connectors not working):
 
-<img width="2323" height="1854" alt="image" src="https://github.com/user-attachments/assets/11127d00-7f5c-4d7c-b5a9-4c0eafff9559" />
+[Original Rocket Assembly](Original_Rocket_Assembly.pdf)
 
 Final Assembly (Dimensions right, Assembly Fully Defined, Connectors Working):
 
-<img width="1942" height="1800" alt="image" src="https://github.com/user-attachments/assets/20420b7b-f848-4183-afea-2c605a4ce99d" />
+[Final Rocket Assembly](Final_Rocket_Assembly.pdf)
 
 
 [Read More](projects/sls.md)
