@@ -123,7 +123,7 @@ Final Assembly (Dimensions right, Assembly Fully Defined, Connectors Working):
 [Final Rocket Assembly](Final_Rocket_Assembly.pdf)
 
 
-[Read More](projects/sls.md)
+[Read More](projects/SLS.md)
 
 ---
 
