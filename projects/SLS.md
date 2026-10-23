@@ -124,7 +124,14 @@ Emerging Engineering Tools
 - Human-AI Design Collaboration
 - Engineering Workflow Optimization
 
-**Visuals**
+# Visuals
+Original Assembly (Dimensions not right, Assembly not defined, connectors not working):
+
+[Original Rocket Assembly](Original_Rocket_Assembly.pdf)
+
+Final Assembly (Dimensions right, Assembly Fully Defined, Connectors Working):
+
+[Final Rocket Assembly](Final_Rocket_Assembly.pdf)
 
 
 [← Back to Home](/)
