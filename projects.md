@@ -55,7 +55,7 @@ As part of the project's final analysis, I developed recommendations to improve 
 - Generated CAD models and engineering documentation to support fabrication and testing.
 - Contributed to the continued development of recovery system hardware for future YJSP flight vehicles.
 
-**Technical Skills Demonstrated**Mechanical Design
+**Technical Skills Demonstrated**
 - CAD Modeling (SolidWorks)
 - Design Iteration
 - Engineering Trade Studies
