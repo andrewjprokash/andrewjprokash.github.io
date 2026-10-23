@@ -143,6 +143,7 @@ After fabrication, I assembled the entire rocket and integrated the recovery sys
 
 **Visuals:**
 
+<img width="828" height="496" alt="image" src="https://github.com/user-attachments/assets/88382b3f-260f-4ed7-8258-bad1a9dca128" />
 
 **Results:**
 The rocket successfully carried the onboard altimeter and achieved a measured apogee of approximately 160 ft, exceeding the original target altitude of 125 ft. While the vehicle flew successfully and demonstrated stable flight characteristics, post-flight analysis revealed that the simulation did not accurately represent the final flight configuration, resulting in significant differences between predicted and measured performance.
