@@ -2,18 +2,22 @@
 
 ## Rocket Report
 
-[Rocket Report]()
+[Rocket Report](Group 13 Rocket Project Fall 2026.docx)
 
 ## Flight Data
 In our first flight, our rocket went around 120-140 ft, though we do not have any data because the Pnut altimeter we had was faulty and did not record any flight data. However, our rocket remained intact and undamaged, so we could do a second flight.
 
 In the second flight, our rocket achieved an apogee of 160 ft, which is much higher than the target. The flight time was around 9 seconds, but when the ejection charge went off, the 3D-printed payload bay could not handle the stress, and it broke in half. Despite this, we successfully recovered every part of the rocket and the altimeter to get our data. The ejection charge also ripped off part of the streamer despite the recovery wadding, but the rest of the rocket remained intact. 
 
-<img width="3024" height="4032" alt="IMG_0572" src="https://github.com/user-attachments/assets/1e6382da-4ea7-4d93-8715-14225964133e" />
-<img width="3024" height="4032" alt="IMG_0569" src="https://github.com/user-attachments/assets/d6a76bc4-d9cc-453f-8a45-6a7cbe6b9878" />
-
 Flight Profile:
+
 <img width="828" height="496" alt="image" src="https://github.com/user-attachments/assets/5d184275-12aa-41ab-9e8f-c2569a20e93b" />
+
+Launch Day Images:
+
+<img width="3024" height="4032" alt="IMG_0572" src="https://github.com/user-attachments/assets/1e6382da-4ea7-4d93-8715-14225964133e" />
+
+<img width="3024" height="4032" alt="IMG_0569" src="https://github.com/user-attachments/assets/d6a76bc4-d9cc-453f-8a45-6a7cbe6b9878" />
 
 
 ## Open Rocket Simulation + Error Analysis
