@@ -1,5 +1,6 @@
-remote_theme: pages-themes/slate@v0.2.0
+remote_theme: mmistakes/minimal-mistakes
+
 plugins:
-  - jekyll-remote-theme
+  - jekyll-include-cache
 title: Andrew's Engineering Portfolio
 description: Aerospace Engineering • Flight Dynamics • Rocketry
