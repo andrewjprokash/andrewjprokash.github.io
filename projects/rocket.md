@@ -2,7 +2,7 @@
 
 ## Rocket Report
 
-[Rocket Report](projects/Group_13_Rocket_Project_Fall_2026.pdf)
+[Rocket Report](Group_13_Rocket_Project_Fall_2026.pdf)
 
 ## Flight Data
 In our first flight, our rocket went around 120-140 ft, though we do not have any data because the Pnut altimeter we had was faulty and did not record any flight data. However, our rocket remained intact and undamaged, so we could do a second flight.
