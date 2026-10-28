@@ -82,20 +82,21 @@ The model was designed for fabrication on an EOS Formiga selective laser sinteri
 
 These considerations allowed for greater geometric freedom while maintaining manufacturability.
 
-# Exploring AI-Assisted CAD Development
-An exciting aspect of this project is the opportunity to evaluate emerging AI-assisted engineering workflows through collaboration with the Vector team, an AI copilot designed for SolidWorks.
+# AI-Assisted Engineering Workflow Evaluation
+An exciting aspect of this project is the opportunity to evaluate emerging AI-assisted engineering workflows through collaboration with Vector, an AI copilot designed for SolidWorks. Rather than treating AI as a standalone design tool, it was incorporated into the engineering workflow to accelerate routine CAD tasks while maintaining engineering oversight and design decision-making.
 
-Over the next phase of development, Vector will be incorporated into the design process before final fabrication and project submission. This creates a unique opportunity to compare traditional CAD methodologies with AI-assisted workflows during an active engineering project.
+After development of the assembly and parts, Vector was experimented with to assist with assembly modifications, including reorganizing mate relationships, resolving assembly errors, and updating component dimensions to eliminate interferences between mating parts. The tool was also leveraged for 3D-printing design guidelines and tolerance studies, helping streamline iterative modifications required to achieve proper fit and manufacturability.
 
-Potential areas of investigation include:
-- Accelerating feature creation
-- Simplifying assembly modifications
-- Improving design iteration speed
-- Identifying manufacturability concerns earlier in development
-- Exploring alternative design solutions
+This project provides an opportunity to compare traditional CAD workflows with AI-assisted methodologies by evaluating Vector's effectiveness in:
+
+- Resolving assembly and mating issues
+- Accelerating design iterations and geometry modifications
+- Identifying interference and fitment concerns
+- Supporting tolerance development for additive manufacturing
 - Reducing repetitive CAD operations
+- Exploring alternative design approaches during concept refinement
 
-As AI tools continue to enter professional engineering workflows, this project provides an opportunity to examine how engineers can leverage AI not as a replacement for engineering judgment, but as a force multiplier for productivity and design exploration.
+As AI tools continue to become integrated into professional engineering environments, this project serves as a practical case study in how engineers can leverage AI as a force multiplier for productivity, rapid iteration, and design exploration while retaining responsibility for engineering analysis, validation, and final design decisions.
 
 # Technical Skills Demonstrated
 
