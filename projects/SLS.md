@@ -85,18 +85,17 @@ These considerations allowed for greater geometric freedom while maintaining man
 # AI-Assisted Engineering Workflow Evaluation
 An exciting aspect of this project is the opportunity to evaluate emerging AI-assisted engineering workflows through collaboration with Vector, an AI copilot designed for SolidWorks. Rather than treating AI as a standalone design tool, it was incorporated into the engineering workflow to accelerate routine CAD tasks while maintaining engineering oversight and design decision-making.
 
-After development of the assembly and parts, Vector was experimented with to assist with assembly modifications, including reorganizing mate relationships, resolving assembly errors, and updating component dimensions to eliminate interferences between mating parts. The tool was also leveraged for 3D-printing design guidelines and tolerance studies, helping streamline iterative modifications required to achieve proper fit and manufacturability.
+After development of the assembly and parts, Vector was experimented with to create and modify assembly relationships, resolve mating and interference issues, generate engineering drawings, review manufacturability concerns, and provide design optimization recommendations. Natural-language commands were used to perform assembly operations and iterative design modifications, allowing rapid exploration of alternative design solutions while reducing repetitive CAD interactions.
 
 This project provides an opportunity to compare traditional CAD workflows with AI-assisted methodologies by evaluating Vector's effectiveness in:
 
-- Resolving assembly and mating issues
-- Accelerating design iterations and geometry modifications
-- Identifying interference and fitment concerns
-- Supporting tolerance development for additive manufacturing
-- Reducing repetitive CAD operations
-- Exploring alternative design approaches during concept refinement
+- Assembly creation and mate definition through natural-language commands
+- Identification and resolution of geometric interferences and assembly conflicts
+- AI-assisted design reviews for manufacturability, printability, and assembly considerations
+- Generation of engineering documentation, including part drawings and assembly drawings
+- Design optimization recommendations related to material usage, geometry refinement, and manufacturability
 
-As AI tools continue to become integrated into professional engineering environments, this project serves as a practical case study in how engineers can leverage AI as a force multiplier for productivity, rapid iteration, and design exploration while retaining responsibility for engineering analysis, validation, and final design decisions.
+The project demonstrated that AI tools can significantly accelerate routine CAD operations and support early-stage design reviews while still requiring engineering validation, analytical reasoning, and final approval by the engineer. Results indicate that AI-assisted workflows are most effective when used as a collaborative design aid that augments engineering productivity rather than replacing engineering decision-making.
 
 # Technical Skills Demonstrated
 
